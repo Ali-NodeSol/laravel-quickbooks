@@ -1,6 +1,5 @@
 {
-  "name": "wearepixel/laravel-quickbooks",
-  "version": "2.0.0",
+  "name": "ali-nodesol/laravel-quickbooks",
   "description": "Laravel Client for QuickBooks.",
   "keywords": [
     "quickbooks",
